@@ -6,7 +6,7 @@ var LogMessage = "[LOG]"
 var Version = "1.0"
 
 func InternalSum(number int) int {
-	return number - 1
+	return number - 4
 }
 
 // Sum two integer numbers
